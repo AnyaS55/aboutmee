@@ -10,4 +10,4 @@
 
 у меня есть кот 
 
-![вот так он выглядит] (https://sun9-43.userapi.com/impg/c850608/v850608694/c1b50/VP5ACItuB4Y.jpg?size=2560x1922&quality=96&sign=9ad8c9edad34a75a28ed3ef4fc8fc2b4&type=album)
+![вот так он выглядит](https://sun9-43.userapi.com/impg/c850608/v850608694/c1b50/VP5ACItuB4Y.jpg?size=2560x1922&quality=96&sign=9ad8c9edad34a75a28ed3ef4fc8fc2b4&type=album)
